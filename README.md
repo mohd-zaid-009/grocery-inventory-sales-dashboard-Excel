@@ -10,8 +10,6 @@ An interactive Excel dashboard that analyses grocery inventory and sales data: s
 
 ![Dashboard Preview](images/dashboard.png)
 
-> Add your dashboard screenshot at `images/dashboard.png`.
-
 ---
 
 ## 🎯 Objective
@@ -136,4 +134,7 @@ To turn raw inventory data into a clear, interactive dashboard that helps answer
 
 Suggestions and feedback are welcome! Feel free to open an issue or connect with me on LinkedIn.
 
-**Author:** [Mohd Zaid](linkedin.com/in/mohd-zaid-718724373) (https://mohd-zaid.vercel.app/)
+**Author:** 
+[Mohd Zaid] 
+LinkedIn (linkedin.com/in/mohd-zaid-718724373) 
+Portfolio (https://mohd-zaid.vercel.app/)
