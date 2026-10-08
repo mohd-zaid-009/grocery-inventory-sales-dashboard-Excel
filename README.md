@@ -136,5 +136,5 @@ Suggestions and feedback are welcome! Feel free to open an issue or connect with
 
 **Author:** 
 [Mohd Zaid] 
-LinkedIn (linkedin.com/in/mohd-zaid-718724373) 
+LinkedIn (https://www.linkedin.com/in/mohd-zaid-718724373) 
 Portfolio (https://mohd-zaid.vercel.app/)
